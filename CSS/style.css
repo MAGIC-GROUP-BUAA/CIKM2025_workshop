@@ -125,9 +125,9 @@ body::before {
 .banner {
     display: block;
     max-width: 100%;
-    width: 800px;  /* 设置固定宽度，可根据需要调整 */
+    width: 600px;  /* 设置固定宽度，可根据需要调整 */
     height: auto;  /* 保持图片比例 */
-    margin: 20px auto;  /* 上下间距20px，左右自动居中 */
+    margin: 0px auto;  /* 上下间距20px，左右自动居中 */
     border-radius: 10px;  /* 可选：添加圆角 */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* 可选：添加阴影效果 */
 }
